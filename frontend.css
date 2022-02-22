@@ -1,0 +1,78 @@
+.brown-div{
+background-color: brown;
+    
+}
+.brown-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    border-bottom: 10px solid orangered;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    padding-right: 20px;
+    color: white;
+    font-size: 20px;
+  
+
+}
+.button1{
+    background-color: red;
+    color: white;
+    border: 0;
+    padding: 13px;
+    font-size: 15px;
+    border-radius: 20px;
+}
+.form{
+    background-color: rgb(31, 27, 27);
+    padding: 70px;
+    text-align: center;
+}
+input[type=text]{
+    width: 300px;
+    height: 15px;
+    border-radius: 10px;
+    
+
+}
+input[type=password]{
+    width: 300px;
+    height: 15px;
+    border-radius: 10px;
+    
+}
+h3{
+    color: white;
+}
+h4{
+    color: red;
+}
+.button2{
+    background-color: red;
+    color: white;
+    padding: 13px;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+.form2{
+    display: flex;
+text-align: left;
+padding: 15px 15px;
+  background-color: black;
+  
+}
+.form2{
+    padding-right: 20px;
+    color: white;
+    font
+}
+.h1{
+    color: white;
+}
